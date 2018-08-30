@@ -1,0 +1,9 @@
+QUESTION NUMBER ONE->
+for valid email address
+ANSWER NUMBER ONE->
+[a-zA-Z0-9_.]*[@](gmail.com|yahoo.com)
+
+QUESTION NUMBER TWO->
+for phone number
+ANSWER NUMBER TWO->
+^[6-9][0-9]{9}
